@@ -26,5 +26,6 @@ if (!isset($_SESSION['game']['tictactoe']))
 		<div>
 			<h1> Autor projektu: Bartosz Matejek </h1>
 			<h1> Numer albumu: 188554</h1>
+		</div>
 	</body>
 </html>
